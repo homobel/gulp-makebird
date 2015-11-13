@@ -1,11 +1,11 @@
 {
   "name": "gulp-makebird",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gulp plugin makebird",
   "main": "index.js",
   "dependencies": {
     "gulp-util": "^3.0.4",
-    "makebird": "^0.0.4",
+    "makebird": "^0.0.5",
     "through2": "^0.6.3"
   },
   "devDependencies": {},
